@@ -75,7 +75,12 @@ By using [bbpresswall] shortcode you can easily create a wall of the bbpress top
                        
 ## Installation 
 
-Upload the Follow for bbPress plugin to your blog, Activate it. Before installing this plugin, make sure you have installed bbPress plugin.             
+Upload the Follow for bbPress plugin to your blog, Activate it. Before installing this plugin, make sure you have installed bbPress plugin.                   
+
+## Demo                       
+
+https://github.com/mostafa272/Follow-for-bbpress/wiki/Demo                                  
+
 
 ## Plugin page at wordpress.org:                       
 
