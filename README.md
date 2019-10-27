@@ -1,4 +1,4 @@
-# Follow for bbpress
+# Follow for bbPress
 The Follow for bbPress plugin provides a users following system for bbPress.    
               
               
