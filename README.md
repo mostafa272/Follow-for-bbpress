@@ -58,9 +58,9 @@ By using [bbpresswall] shortcode you can easily create a wall of the bbpress top
 
 ## [bbpresswall] shortcode attributes 
 
- **show_forum:** 1 or 0 for showing or hidding the forum title (Default:1)                
+ **show_forum:** 1 or 0 for showing or hiding the forum title (Default:1)                
 
- **show_date:** 1 or 0 for showing or hidding the create date of topic (Default:1)                     
+ **show_date:** 1 or 0 for showing or hiding the create date of topic (Default:1)                     
 
  **item_limit:** How many topics are loaded per request in the wall section (Default:5)               
 
